@@ -7,7 +7,7 @@ public class TestMyUtils
         MyStudentArray[0]=new Foititis("Jadineee","Hinton", (short) 2,2020);
         MyStudentArray[1]=new Foititis("Brette","Paterson", (short) 3,2022);
         MyStudentArray[2]=new Foititis("Sumayya","Boyd", (short) 4,2023);
-        MyStudentArray[3]=new Foititis("Serenity","Wallis", (short) 6,2022);
+        MyStudentArray[3]=new Foititis("Serenitry","Wallis", (short) 6,2022);
         MyStudentArray[4]=new Foititis("Keyan","Dunne", (short) 9,2021);
         MyStudentArray[5]=new Foititis("Said","Lindsey", (short) 10,2021);
         MyStudentArray[6]=new Foititis("Dilan","Curran", (short) 1,2021);
