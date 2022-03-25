@@ -4,9 +4,9 @@ public class TestMyUtils
     {
         //region Δημιουργία πίνακα και εισαγωγή φοιτητών
         Foititis[] MyStudentArray = new Foititis[10];
-        MyStudentArray[0]=new Foititis("Jadineee","Hinton", (short) 2,2020);
+        MyStudentArray[0]=new Foititis("Jadinee","Hinton", (short) 2,2020);
         MyStudentArray[1]=new Foititis("Brette","Paterson", (short) 3,2022);
-        MyStudentArray[2]=new Foititis("Sumayya","Boyd", (short) 4,2023);
+        MyStudentArray[2]=new Foititis("Sumaya","Boyd", (short) 4,2023);
         MyStudentArray[3]=new Foititis("Serenitry","Wallis", (short) 6,2022);
         MyStudentArray[4]=new Foititis("Keyan","Dunne", (short) 9,2021);
         MyStudentArray[5]=new Foititis("Said","Lindsey", (short) 10,2021);
